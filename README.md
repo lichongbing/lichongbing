@@ -1,6 +1,6 @@
 
 ## 我叫李崇兵👋
-- <img src="https://image.lichongbing.com/antulogo.svg" width = "20px" hight = "20px"/>北京世纪安图担任Java开发
+- <img src="https://image.lichongbing.com/antulogo.svg" width = "40px" hight = "25px"/>北京世纪安图担任Java开发
 - 🏡 博客：<a href="https://blog.lichongbing.com" target="_blank">谦谦君子</a> | <a href="https://www.lichongbing.com" target="_blank">hexo博客</a> | <a href="https://github.com/lichongbing/" target="_blank">求星星 ✨</a>
 
 - 🌱 技术分享 <a href="" target="_blank">公众号『 谦谦君子 』</a>
