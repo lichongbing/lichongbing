@@ -1,6 +1,6 @@
 
 ## 我叫李崇兵👋
-- <div align="left">&emsp;🏡北京世纪安图Java开发</div>
+- <div align="left">&emsp;🏡 北京世纪安图Java开发</div>
 
 - &emsp; 🌱 博客：<a href="https://www.lichongbing.com" target="_blank">谦谦君子</a> | <a href="https://www.lichongbing.com" target="_blank">hexo博客</a> | <a href="https://github.com/lichongbing/" target="_blank">求星星 ✨</a>
 
