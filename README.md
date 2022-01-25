@@ -2,7 +2,7 @@
 ## 我叫李崇兵👋
 - <div align="left"> <img src="http://image.lichongbing.com/antulogo.svg" width = "40px" hight = "25px"/>北京世纪安图Java开发</div>
 
-- &emsp; 🏡 博客：<a href="https://blog.lichongbing.com" target="_blank">谦谦君子</a> | <a href="https://www.lichongbing.com" target="_blank">hexo博客</a> | <a href="https://github.com/lichongbing/" target="_blank">求星星 ✨</a>
+- &emsp; 🏡 博客：<a href="https://www.lichongbing.com" target="_blank">谦谦君子</a> | <a href="https://www.lichongbing.com" target="_blank">hexo博客</a> | <a href="https://github.com/lichongbing/" target="_blank">求星星 ✨</a>
 
 - &emsp; 🌱 技术分享 <a href="" target="_blank">公众号『 谦谦君子 』</a>
 
