@@ -1,10 +1,8 @@
 
 ## 我叫李崇兵👋
-- <div align="left">    北京世纪安图Java开发</div>
+- <div align="left">&emsp;🏡北京世纪安图Java开发</div>
 
-- &emsp; 🏡 博客：<a href="https://www.lichongbing.com" target="_blank">谦谦君子</a> | <a href="https://www.lichongbing.com" target="_blank">hexo博客</a> | <a href="https://github.com/lichongbing/" target="_blank">求星星 ✨</a>
-
-- &emsp; 🌱 技术分享 <a href="" target="_blank">公众号『 谦谦君子 』</a>
+- &emsp; 🌱 博客：<a href="https://www.lichongbing.com" target="_blank">谦谦君子</a> | <a href="https://www.lichongbing.com" target="_blank">hexo博客</a> | <a href="https://github.com/lichongbing/" target="_blank">求星星 ✨</a>
 
 - &emsp; 😺 快乐学习：</a> | 抖音搜索 190398974 
 
